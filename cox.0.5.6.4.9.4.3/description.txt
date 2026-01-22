@@ -1,0 +1,32 @@
+3D Card Banking Landing Page Template
+
+A dark, futuristic fintech banking landing page template for promoting modern financial products to startups and founders.
+
+Nova Financial Landing Page Template delivers a sleek, dark, fintech-ready hero with a 3D interactive card, ideal for modern banking or financial SaaS brands.
+
+What’s Included
+Hero section with gradient headline, founder-focused copy, and dual CTAs
+3D animated payment card component with glare and shadow effects
+Feature grid highlighting analytics, virtual cards, and security
+Sticky navigation with product, solutions, pricing, and sign-in
+Full footer with product, company, resources, and legal links
+Key Features
+Futuristic dark UI with gradients and glassmorphism
+Interactive 3D card animation in pure JS
+Founder-focused messaging for modern banking
+Responsive Tailwind CSS layout
+Trust signals like FDIC, security, and status
+Primary use case: quickly launch or prototype a fintech or neobank marketing site that looks premium, conveys trust, and showcases digital card products out of the box.
+
+
+Tags:
+
+Landing Page
+Technology
+Brand
+3D
+Dark
+Gradient
+Futuristic
+Clean
+Large Type
