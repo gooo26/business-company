@@ -1,0 +1,34 @@
+Inclusive Sports Events Landing Page Template
+
+A modern, inclusive events landing page template for clubs and organizations to showcase upcoming sports, cultural, and community activities with rich visuals and CTAs.
+
+Inclusive Sports Events Landing Page Template
+
+A bold, image-driven template for showcasing para-sports, cultural festivals, and community programs in one cohesive experience.
+
+Key Features
+Hero events spotlight with upcoming headline event card and striking background imagery
+Upcoming & featured events grids for sports, socio-cultural, and international tournaments
+Category browsing sections for Sports and Socio-Culture with structured cards and dates
+Rewinds video gallery to feature highlight reels and storytelling content
+Community engagement blocks including “Join The Club”, volunteer CTA, and newsletter subscribe form
+Use Cases
+Para-sports or adaptive sports club websites
+Municipal or city-led cultural event hubs
+Community centers promoting festivals and tournaments
+Non-profits and clubs highlighting inclusive programs
+Built with Tailwind-ready HTML, this template helps you quickly launch an accessible, aspirational events hub that drives attendance, membership, and volunteer signups.
+
+
+Tags:
+
+Landing Page
+Brand
+Clean
+Colorful
+Large Type
+Social
+Education
+Entertainment
+Events
+Accessibility
