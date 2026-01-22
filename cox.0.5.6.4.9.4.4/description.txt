@@ -1,0 +1,32 @@
+A sleek architecture studio landing page template for showcasing brutalist-inspired projects, philosophy, and contact CTAs with immersive visuals.
+
+Aethereal Architecture Landing Page Template
+A cinematic, dark brutalist landing page template crafted for architecture and interior studios to showcase flagship projects and attract high-end clients.
+
+Key features
+
+Immersive hero with oversized typography and city-based studio intro
+Sticky card stack layout for "Selected Works" case studies
+Philosophy section highlighting design principles and values
+Scroll-triggered GSAP animations and Lenis smooth scrolling
+Full-screen footer with "LET'S TALK" project inquiry CTA and social links
+Use cases
+
+Architecture or interior design studio portfolio
+Concept studio or visualization agency showcase
+High-impact single-page marketing site for design-led practices
+Use this template to present projects, narrative, and contact details in a refined, editorial experience that feels premium and timeless.
+
+
+Tags:
+
+Landing Page
+Brand
+Art & Design
+Portfolio
+Brutal
+Dark
+Large Type
+Minimal
+Architecture
+Studio
