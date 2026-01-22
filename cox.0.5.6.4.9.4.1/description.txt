@@ -1,0 +1,35 @@
+Nexovia AI SaaS Landing Page Template
+
+A high-converting dark-mode Nexovia-style landing page template for AI SaaS platforms, featuring hero, features, pricing, comparison, testimonials, and FAQ sections.
+
+Nexovia AI SaaS Landing Page Template delivers a cinematic dark UI for modern AI platforms.
+
+What’s Included
+Hero with bold headline, logo cloud, and dual CTAs
+Feature grid showcasing product benefits
+Tiered pricing cards with highlight plan
+Competitor comparison table
+Testimonials, FAQ, and guarantee footer CTA
+Key Features
+Futuristic dark aesthetic with gradients, beams, and motion
+Conversion-focused layout with multiple CTA touchpoints
+Comparison and pricing sections optimized for buyers
+Testimonials and FAQ to reduce friction and build trust
+Responsive Tailwind CSS structure ready for customization
+Primary Use Case
+Ideal for AI and SaaS startups needing a ready-made, brand-forward landing page template to launch or test new products quickly while maintaining a premium, conversion-oriented experience.
+
+
+
+Tags:
+
+Landing Page
+Technology
+Brand
+Dark
+Gradient
+Large Type
+Minimal
+SaaS
+AI Platform
+Pricing
